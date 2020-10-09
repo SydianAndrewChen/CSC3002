@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Snake">
+        <file>apple.png</file>
+        <file>dot.png</file>
+        <file>head.png</file>
+    </qresource>
+    <qresource prefix="/Calendar"/>
+    <qresource prefix="/Icons"/>
+    <qresource prefix="/">
+        <file>calender.png</file>
+        <file>case.png</file>
+        <file>clock.png</file>
+        <file>file.png</file>
+        <file>ProcessMgr.png</file>
+        <file>Memo.txt</file>
+        <file>res/blocks.bmp</file>
+        <file>res/faces.bmp</file>
+        <file>res/frame.bmp</file>
+        <file>res/timenumber.bmp</file>
+        <file>Simulated_Server_K.jpg</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>paste.png</file>
+        <file>save.png</file>
+        <file>save_as.png</file>
+        <file>text_editor.png</file>
+        <file>system.png</file>
+        <file>snake.png</file>
+        <file>MineSweep.png</file>
+        <file>drawback.png</file>
+        <file>calculator.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>

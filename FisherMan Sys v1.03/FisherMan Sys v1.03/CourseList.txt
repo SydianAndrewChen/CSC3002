@@ -1,0 +1,2395 @@
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3007 L01-LEC
+Speaker: Hsien-Da Huang, Tzong-Yi Lee
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Fr 08:30-10:20
+Location: Teaching C Bldg 301
+Associated: BIM3007 T01-TUT
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3007 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 301
+Associated: BIM3007 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3016 L01-LEC
+Speaker: Gyeong Hun Baeg
+Time: Th 13:00-14:50, Fr 13:00-14:50
+Location: Teaching D Bldg 208
+Associated: 
+Quota: 55
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 L01-LEC
+Speaker: Jihang Chen
+Time: Mo 13:30-15:20, Tu 13:30-15:20, We 13:30-15:20
+Location: Cheng Dao Bldg 104
+Associated: BIO1001 T01-TUT|BIO1001 T02-TUT
+Quota: 135
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 L02-LEC
+Speaker: Pan Wang
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Cheng Dao Bldg 104
+Associated: BIO1001 T03-TUT|BIO1001 T04-TUT
+Quota: 135
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T01-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, Tu 20:00-20:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L01-LEC
+Quota: 67
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T02-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, Tu 19:00-19:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L01-LEC
+Quota: 68
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T03-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching C Bldg 308
+Associated: BIO1001 L02-LEC
+Quota: 67
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T04-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L02-LEC
+Quota: 68
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1002 L01-LEC
+Speaker: Wing Fu Lai
+Time: Mo 10:30-12:20, Tu 10:30-12:20, We 10:30-12:20
+Location: Teaching D Bldg 208
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BME3005 L01-LEC
+Speaker: Bai Yun, Richard Dequan Ye
+Time: Mo 16:00-17:50, Tu 16:00-17:50, We 16:00-17:50
+Location: Teaching C Bldg 108
+Associated: BME3005 T01-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BME3005 T01-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching C Bldg 108
+Associated: BME3005 L01-LEC
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CHI3002 L01-LEC
+Speaker: Wing Shun Wong
+Time: Mo 15:30-17:20, Tu 15:30-17:20, We 15:30-17:20
+Location: Zhi Xin Bldg 109
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CHI4002
+Speaker: Mengbin Liu, Qiuchen Wang
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:20
+Location: Cheng Dao Bldg 207
+Associated: 
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 L01-LEC
+Speaker: Jane YOU
+Time: Mo 16:00-17:50, Tu 16:00-17:50, Fr 16:00-17:50
+Location: Administration Bldg E206
+Associated: CSC1001 T01-TUT|CSC1001 T02-TUT|CSC1001 T03-TUT|CSC1001 T04-TUT|CSC1001 T05-TUT|CSC1001 T06-TUT|CSC1001 T07-TUT|CSC1001 T08-TUT
+Quota: 170
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 L02-LEC
+Speaker: Xiaoguang Han
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Fr 08:30-10:20
+Location: Administration Bldg E206
+Associated: CSC1001 T01-TUT|CSC1001 T02-TUT|CSC1001 T03-TUT|CSC1001 T04-TUT|CSC1001 T05-TUT|CSC1001 T06-TUT|CSC1001 T07-TUT|CSC1001 T08-TUT
+Quota: 170
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T02-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T03-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T04-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T05-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T06-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T07-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching C Bldg 209
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T08-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching C Bldg 209
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 L01-LEC
+Speaker: Staff
+Time: Mo 10:30-12:20, Tu 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 103
+Associated: CSC3100 T01-TUT|CSC3100 T02-TUT|CSC3100 T03-TUT
+Quota: 120
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T01-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching D Bldg 113
+Associated: CSC3100-L01 LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T02-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching D Bldg 113
+Associated: CSC3100 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T03-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching D Bldg 113
+Associated: CSC3100 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MDS6101
+Speaker: Chi Hoon Lee
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: TBA
+Associated: 
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO2011 L01-LEC
+Speaker: Lawrence KHOO
+Time: Tu 10:30-11:50, Tu 15:30-16:50, Th 10:30-11:50, Th 15:30-16:50
+Location: Teaching B Bldg 105
+Associated: 
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 L01-LEC
+Speaker: Zhiguo Xiao
+Time: Th 08:30-10:20, Fr 08:30-10:20, Fr 13:30-15:20
+Location: Teaching D Bldg 103
+Associated: ECO3080 T01-TUT|ECO3080 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 T01-TUT
+Speaker: Staff
+Time: Th 19:00-19:50
+Location: Teaching D Bldg 107
+Associated: ECO3080 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 T02-TUT
+Speaker: Staff
+Time: Fr 19:00-19:50
+Location: Teaching D Bldg 107
+Associated: ECO3080 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3470 T01-TUT
+Speaker: Staff
+Time: We 10:30-12:20, Mo 13:30-15:20, Tu 13:30-15:20
+Location: Teaching B Bldg 105
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4006 L01-LEC
+Speaker: Tony Lee
+Time: Tu 13:00-14:50, We 13:00-14:50, Th 13:00-14:50
+Location: Teaching C Bldg 106
+Associated: EIE4006 T01-TUT
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4006 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 106
+Associated: EIE4006 L01-LEC
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4190 L01-LEC
+Speaker: Chang Wen Chen
+Time: Tu 15:30-17:20, We 15:30-17:20, Th 15:30-17:20
+Location: Teaching C Bldg 106
+Associated: EIE4190 T01-TUT
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4190 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 106
+Associated: EIE4190 L01-LEC
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG1006 L01-LEC
+Speaker: Wesley JAMES
+Time: Mo 10:30-12:20, We 10:30-12:20
+Location: Teaching C Bldg 108
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG1006 L02-LEC
+Speaker: Wesley JAMES
+Time: Mo 13:30-15:20, We 13:30-15:20
+Location: Teaching C Bldg 108
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG3001 L01-LEC
+Speaker: Charles KIEFFER
+Time: Tu 08:30-10:20, Th 08:30-10:20
+Location: Teaching D Bldg 111
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG3001 L02-LEC
+Speaker: Charles KIEFFER
+Time: Tu 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 111
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3060 L01-LEC
+Speaker: Staff
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: Teaching B Bldg 102
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 L01-LEC
+Speaker: Jianqiu Bai
+Time: Mo 18:00-19:50, Tu 18:00-19:50, We 18:00-19:50
+Location: Teaching B Bldg 102
+Associated: FIN3340 T01-TUT|FIN3340 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching D Bldg 107
+Associated: FIN3340 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 T02-TUT
+Speaker: Staff
+Time: Th 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: FIN3340 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 L01-LEC
+Speaker: Lin Lin YE
+Time: Tu 08:30-11:20, Th 08:30-11:20
+Location: Teaching D Bldg 414
+Associated: FIN3380 T01-TUT|FIN3380 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching D Bldg 206
+Associated: FIN3380 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 T02-TUT
+Speaker: Staff
+Time: Th 20:00-20:50
+Location: Teaching D Bldg 206
+Associated: FIN3380 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 L01-LEC
+Speaker: Di Mao
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching C Bldg 208
+Associated: GEA2000 T01-TUT|GEA2000 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 L02-LEC
+Speaker: Yong Chang Pong
+Time: Tu 10:30-12:20, We 10:30-12:20
+Location: Teaching C Bldg 208
+Associated: GEA2000 T03-TUT|GEA2000 T04-TUT
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T01-TUT
+Speaker: Th 15:30-17:20
+Time: Teaching C Bldg
+Location: Di Mao
+Associated: GEA2000 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T02-TUT
+Speaker: Mo 15:30-17:20
+Time: Teaching C Bldg
+Location: Di Mao
+Associated: GEA2000 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T03-TUT
+Speaker: Tu 15:30-17:20
+Time: Teaching C Bldg
+Location: Yong Chang Peng
+Associated: GEA2000 L02-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T04-TUT
+Speaker: We 15:30-17:20
+Time: Teaching C Bldg
+Location: Yong Chang Peng
+Associated: GEA2000 L02-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2104 L01-LEC
+Speaker: Glen HUI
+Time: Mo 15:30-17:20, Tu 13:30-15:20, We 15:30-17:2-
+Location: Teaching B Bldg 102
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2202 L01-LEC
+Speaker: Xuran Zuo
+Time: Tu 08:30-11:20, Th 08:30-11:20
+Location: Teaching A Bldg 302
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2501 L01-LEC
+Speaker: Yihan Chen
+Time: Mo 09:00-11:50, We 09:00-11:50
+Location: Teaching C Bldg 414
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 L01-LEC
+Speaker: Ruizhi LIAO
+Time: Mo 08:30-10:20, We 08:30-10:20
+Location: Teaching C Bldg 206
+Associated: GEB2503 T01-TUT|GEB2503 T02-TUT
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 T01-TUT
+Speaker: Ruizhi LIAO
+Time: Mo 13:00-14:50
+Location: Teaching D Bldg 314
+Associated: GEB2503 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 T02-TUT
+Speaker: Ruizhi LIAO
+Time: We 13:00-14:50
+Location: Teaching D Bldg 314
+Associated: GEB2503 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB3401 L01-LEC
+Speaker: Tony LO
+Time: Th 13:30-16:20, Fr 13:30-16:20
+Location: TBA
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2201 L01-LEC
+Speaker: Thomas CARROLL
+Time: Mo 08:30-10:20, We 08:30-10:20, Fr 08:30-10:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2202 L01-LEC
+Speaker: Shiwei LEI
+Time: Tu 13:00-15:50, Th 13:00-15:50
+Location: TBA
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2301 L01-LEC
+Speaker: Stavroula Tsirogianni
+Time: Mo 10:30-12:20, Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:2-
+Location: Administration Bldg E210
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3403 L01-LEC
+Speaker: Gautam Ghosh
+Time: Mo 15:30-17:20, We 15:30-17:20, Fr 15:30-17:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3701 L01-LEC
+Speaker: Staff
+Time: Tu 10:30-12:20, Tu 15:30-17:20, We 10:30-12:20
+Location: Zhi Xin Bldg 111
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3702 L01-LEC
+Speaker: Staff
+Time: Sa 08:30-11:20, Su 08:30-11:20
+Location: Zhi Xin Bldg 111
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2003 L01-LEC
+Speaker: Yuchen HAN
+Time: Tu 18:00-20:50, Th 18:00-20:50
+Location: Cheng Dao Bldg 208
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2004 L01-LEC
+Speaker: Staff
+Time: Tu 19:00-20:50, We 19:00-20:50, Th 19:00-20:50
+Location: Teaching D Bldg 103
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2103 L01-LEC
+Speaker: Lucas Scripter
+Time: We 13:30-16:20, Fr 13:30-16:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 L01-LEC
+Speaker: Foongha Yap
+Time: Mo 08:30-10:20, We 08:30-10:20
+Location: Administration Bldg E210
+Associated: GED2301 T01-TUT|GED2301 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 T01-TUT
+Speaker: Foongha Yap
+Time: Mo 15:30-16:20, We 15:30-16:20
+Location: Teaching D Bldg 109
+Associated: GED2301 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 T02-TUT
+Speaker: Foongha Yap
+Time: Mo 16:30-17:20, We 16:30-17:20
+Location: Teaching D Bldg 109
+Associated: GED2301 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 L01-LEC
+Speaker: Jin LEE
+Time: Mo 10:00-11:50, We 10:00-11:50
+Location: TBA
+Associated: GED3001 T01-TUT|GED3001 T02-TUT
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 T01-TUT
+Speaker: Jin LEE
+Time: Th 10:00-11:50
+Location: TBA
+Associated: GED3001 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 T02-TUT
+Speaker: Jin LEE
+Time: Fr 10:00-11:50
+Location: TBA
+Associated: GED3001 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 L01-LEC
+Speaker: Cheng Chuan LIN
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teachign A Bldg 302
+Associated: GED3306 T01-TUT|GED3306 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 T01-TUT
+Speaker: Cheng Chuan LIN
+Time: Tu 10:30-12:20
+Location: Teaching C Bldg 108
+Associated: GED3306 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 T02-TUT
+Speaker: Cheng Chuan LIN
+Time: Tu 13:30-15:20
+Location: Teaching C Bldg 108
+Associated: GED3306 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 L01-LEC
+Speaker: Chirstopher Kluz, John Robert Williams
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 102
+Associated: GFH1000 T01-TUT|GFH1000 T02-TUT|GFH1000 T03-TUT|GFH1000 T04-TUT
+Quota: 112
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T01-TUT
+Speaker: Chirstopher Kluz
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching A Bldg 104
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T02-TUT
+Speaker: Chirstopher Kluz
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teaching A Bldg 104
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T03-TUT
+Speaker: John Robert Williams
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 201
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T04-TUT
+Speaker: John Robert Williams
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teaching D Bldg 201
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 L01-LEC
+Speaker: Yifan Cai
+Time: Tu 19:00-19:50
+Location: Administration Bldg E210
+Associated: GFN1000 T01-TUT|GFN1000 T02-TUT
+Quota: 56
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 L02-LEC
+Speaker: Jing Zou
+Time: Tu 15:30-16:20, Fr 15:30-16:20
+Location: Administration Bldg E210
+Associated: GFN1000 T03-TUT|GFN1000 T04-TUT
+Quota: 56
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T01-TUT
+Speaker: Yifan Cai
+Time: Tu 10:30-12:20, Fr 10:30-12:20
+Location: Teaching A Bldg 104
+Associated: GFN1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T02-TUT
+Speaker: Yifan Cai
+Time: Tu 13:30-15:20, Fr 13:30-15:20
+Location: Teaching A Bldg 104
+Associated: GFN1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T03-TUT
+Speaker: Jing Zou
+Time: Tu 08:30-10:20, Fr 08:30-10:20
+Location: Teaching A Bldg 107
+Associated: GFN1000 L02-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T04-TUT
+Speaker: Jing Zou
+Time: Tu 10:30-12:20, Fr 10:30-12:20
+Location: Teaching A Bldg 107
+Associated: GFN1000 L02-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 L01-LEC
+Speaker: Siu Pang YUNG
+Time: We 16:00-17:50, Th 16:00-17:50, Fr 08:30-10:20
+Location: Teaching D Bldg 102
+Associated: ERG2050 T01-TUT|ERG2050 T02-TUT|ERG2050 T03-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T01-TUT
+Speaker: Staff
+Time: Th 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T02-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T03-TUT
+Speaker: Staff
+Time: We 20:00-20:50, Fr 20:00-20:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT3210 L01-LEC
+Speaker: Staff
+Time: Mo 13:00-15:50, Tu 13:00-15:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT3250 L01-LEC
+Speaker: Sali Li
+Time: Mo 09:00-11:50, We 09:00-11:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT4020 L01-LEC
+Speaker: Bilian LIN
+Time: We 19:00-20:50, Th 19:00-20:50, Fr 19:00-20:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: 
+Speaker: MGT4110 L01-LEC
+Time: Mo 10:30-11:50, Mo 13:00-14:20, We 10:30-11:50, We 13:00-14:20
+Location: Teaching A Bldg 107
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT4188 L01-LEC
+Speaker: Michael FERGUSON
+Time: TBA
+Location: TBA
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MKT4030 L01-LEC
+Speaker: Lili ZOU
+Time: We 15:00-17:50, Fr 15:00-17:50
+Location: Teaching A Bldg 109
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MKT4930 L01-LEC
+Speaker: Diamond TAI
+Time: Mo 10:30-11:50, Mo 13:30-14:50, We 10:30-11:50, We 13:30-14:50
+Location: Teaching C Bldg 103
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 L01-LEC
+Speaker: Dongxu Ji
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:20
+Location: Zhi Xin Bldg 110
+Associated: MAT2040 T01-TUT|MAT2040 T02-TUT|MAT2040 T03-TUT|MAT2040 T04-TUT|MAT2040 T05-TUT|MAT2040 T06-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 L02-LEC
+Speaker: Dongxu Ji
+Time: Tu 15:30-17:20, We 15:30-17:20, Th 15:30-17:20
+Location: Zhi Xin Bldg 110
+Associated: MAT2040 T01-TUT|MAT2040 T02-TUT|MAT2040 T03-TUT|MAT2040 T04-TUT|MAT2040 T05-TUT|MAT2040 T06-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T02-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T03-TUT
+Speaker: Staff
+Time: We 20:00-20:50, Fr 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T04-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T05-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T06-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 L01-LEC
+Speaker: Andre Manfred Milzarek
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Aministration Bldg E205
+Associated: MAT3007 T01-TUT|MAT3007 T02-TUT|MAT3007 T03-TUT|MAT3007 T04-TUT|MAT3007 T05-TUT|MAT3007 T06-TUT
+Quota: 220
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T01-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T02-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T03-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T04-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T05-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 36
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T06-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 36
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: PED1002 L01-LEC
+Speaker: Hao JIANG
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: TBA
+Associated: 
+Quota: 24
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: PED1002 L02-LEC
+Speaker: Hao JIANG
+Time: Mo 15:30-17:20, Th 15:30-17:20
+Location: TBA
+Associated: 
+Quota: 24
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2001 L01-LEC
+Speaker: Staff
+Time: We 13:00-14:50, Th 13:00-14:50, Fr 13:00-14:50
+Location: Teaching C Bldg 206
+Associated: STA2001 T01-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2001 T01-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching C Bldg 206
+Associated: STA2001 L01-LEC
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 L01-LEC
+Speaker: Xinyun CHEN
+Time: We 08:30-10:20, Mo 10:30-12:20, Fr 10:30-12:20
+Location: Teaching B Bldg 105
+Associated: STA2002 T01-TUT|STA2002 T02-TUT|STA2002 T03-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T01-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T02-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T03-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA3011 L01-LEC
+Speaker: Chi Hoon Lee
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: Teaching C Bldg 103
+Associated: STA3011 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA3011 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching D Bldg 206
+Associated: STA3011 L01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4020 L01-LEC
+Speaker: Nan Lin
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Teaching D Bldg 206
+Associated: STA4020 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4020 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 206
+Associated: STA4020 L01-LEC
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4030 L01-LEC
+Speaker: Bojun Lu
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:2-
+Location: Teachign C Bldg 206
+Associated: STA4030 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4030 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching C Bldg 206
+Associated: STA4030 L01-LEC
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: TRA3010 L01-LEC
+Speaker: Ying Yi Zhuang, Kexin Chen
+Time: Th 13:30-15:20, Fr 08:30-10:20
+Location: Teaching C Bldg 209
+Associated: TRA3010 T01-TUT
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: TRA3010 T01-TUT
+Speaker: Ying Yi Zhuang, Kexin Chen
+Time: Fr 13:30-15:20
+Location: Teaching C Bldg 209
+Associated: TRA3010 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3007 L01-LEC
+Speaker: Hsien-Da Huang, Tzong-Yi Lee
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Fr 08:30-10:20
+Location: Teaching C Bldg 301
+Associated: BIM3007 T01-TUT
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3007 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 301
+Associated: BIM3007 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIM3016 L01-LEC
+Speaker: Gyeong Hun Baeg
+Time: Th 13:00-14:50, Fr 13:00-14:50
+Location: Teaching D Bldg 208
+Associated: 
+Quota: 55
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 L01-LEC
+Speaker: Jihang Chen
+Time: Mo 13:30-15:20, Tu 13:30-15:20, We 13:30-15:20
+Location: Cheng Dao Bldg 104
+Associated: BIO1001 T01-TUT|BIO1001 T02-TUT
+Quota: 135
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 L02-LEC
+Speaker: Pan Wang
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Cheng Dao Bldg 104
+Associated: BIO1001 T03-TUT|BIO1001 T04-TUT
+Quota: 135
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T01-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, Tu 20:00-20:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L01-LEC
+Quota: 67
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T02-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, Tu 19:00-19:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L01-LEC
+Quota: 68
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T03-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching C Bldg 308
+Associated: BIO1001 L02-LEC
+Quota: 67
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1001 T04-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 103
+Associated: BIO1001 L02-LEC
+Quota: 68
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BIO1002 L01-LEC
+Speaker: Wing Fu Lai
+Time: Mo 10:30-12:20, Tu 10:30-12:20, We 10:30-12:20
+Location: Teaching D Bldg 208
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BME3005 L01-LEC
+Speaker: Bai Yun, Richard Dequan Ye
+Time: Mo 16:00-17:50, Tu 16:00-17:50, We 16:00-17:50
+Location: Teaching C Bldg 108
+Associated: BME3005 T01-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: BME3005 T01-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching C Bldg 108
+Associated: BME3005 L01-LEC
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CHI3002 L01-LEC
+Speaker: Wing Shun Wong
+Time: Mo 15:30-17:20, Tu 15:30-17:20, We 15:30-17:20
+Location: Zhi Xin Bldg 109
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CHI4002
+Speaker: Mengbin Liu, Qiuchen Wang
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:20
+Location: Cheng Dao Bldg 207
+Associated: 
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 L01-LEC
+Speaker: Jane YOU
+Time: Mo 16:00-17:50, Tu 16:00-17:50, Fr 16:00-17:50
+Location: Administration Bldg E206
+Associated: CSC1001 T01-TUT|CSC1001 T02-TUT|CSC1001 T03-TUT|CSC1001 T04-TUT|CSC1001 T05-TUT|CSC1001 T06-TUT|CSC1001 T07-TUT|CSC1001 T08-TUT
+Quota: 170
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 L02-LEC
+Speaker: Xiaoguang Han
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Fr 08:30-10:20
+Location: Administration Bldg E206
+Associated: CSC1001 T01-TUT|CSC1001 T02-TUT|CSC1001 T03-TUT|CSC1001 T04-TUT|CSC1001 T05-TUT|CSC1001 T06-TUT|CSC1001 T07-TUT|CSC1001 T08-TUT
+Quota: 170
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T02-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T03-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T04-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T05-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T06-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching A Bldg 107
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T07-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching C Bldg 209
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC1001 T08-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching C Bldg 209
+Associated: CSC1001 L01-LEC, CSC1001 L02-LEC
+Quota: 42
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 L01-LEC
+Speaker: Staff
+Time: Mo 10:30-12:20, Tu 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 103
+Associated: CSC3100 T01-TUT|CSC3100 T02-TUT|CSC3100 T03-TUT
+Quota: 120
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T01-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching D Bldg 113
+Associated: CSC3100-L01 LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T02-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching D Bldg 113
+Associated: CSC3100 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: CSC3100 T03-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching D Bldg 113
+Associated: CSC3100 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MDS6101
+Speaker: Chi Hoon Lee
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: TBA
+Associated: 
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO2011 L01-LEC
+Speaker: Lawrence KHOO
+Time: Tu 10:30-11:50, Tu 15:30-16:50, Th 10:30-11:50, Th 15:30-16:50
+Location: Teaching B Bldg 105
+Associated: 
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 L01-LEC
+Speaker: Zhiguo Xiao
+Time: Th 08:30-10:20, Fr 08:30-10:20, Fr 13:30-15:20
+Location: Teaching D Bldg 103
+Associated: ECO3080 T01-TUT|ECO3080 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 T01-TUT
+Speaker: Staff
+Time: Th 19:00-19:50
+Location: Teaching D Bldg 107
+Associated: ECO3080 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3080 T02-TUT
+Speaker: Staff
+Time: Fr 19:00-19:50
+Location: Teaching D Bldg 107
+Associated: ECO3080 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ECO3470 T01-TUT
+Speaker: Staff
+Time: We 10:30-12:20, Mo 13:30-15:20, Tu 13:30-15:20
+Location: Teaching B Bldg 105
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4006 L01-LEC
+Speaker: Tony Lee
+Time: Tu 13:00-14:50, We 13:00-14:50, Th 13:00-14:50
+Location: Teaching C Bldg 106
+Associated: EIE4006 T01-TUT
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4006 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 106
+Associated: EIE4006 L01-LEC
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4190 L01-LEC
+Speaker: Chang Wen Chen
+Time: Tu 15:30-17:20, We 15:30-17:20, Th 15:30-17:20
+Location: Teaching C Bldg 106
+Associated: EIE4190 T01-TUT
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: EIE4190 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 106
+Associated: EIE4190 L01-LEC
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG1006 L01-LEC
+Speaker: Wesley JAMES
+Time: Mo 10:30-12:20, We 10:30-12:20
+Location: Teaching C Bldg 108
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG1006 L02-LEC
+Speaker: Wesley JAMES
+Time: Mo 13:30-15:20, We 13:30-15:20
+Location: Teaching C Bldg 108
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG3001 L01-LEC
+Speaker: Charles KIEFFER
+Time: Tu 08:30-10:20, Th 08:30-10:20
+Location: Teaching D Bldg 111
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ENG3001 L02-LEC
+Speaker: Charles KIEFFER
+Time: Tu 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 111
+Associated: 
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3060 L01-LEC
+Speaker: Staff
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: Teaching B Bldg 102
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 L01-LEC
+Speaker: Jianqiu Bai
+Time: Mo 18:00-19:50, Tu 18:00-19:50, We 18:00-19:50
+Location: Teaching B Bldg 102
+Associated: FIN3340 T01-TUT|FIN3340 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching D Bldg 107
+Associated: FIN3340 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3340 T02-TUT
+Speaker: Staff
+Time: Th 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: FIN3340 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 L01-LEC
+Speaker: Lin Lin YE
+Time: Tu 08:30-11:20, Th 08:30-11:20
+Location: Teaching D Bldg 414
+Associated: FIN3380 T01-TUT|FIN3380 T02-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching D Bldg 206
+Associated: FIN3380 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: FIN3380 T02-TUT
+Speaker: Staff
+Time: Th 20:00-20:50
+Location: Teaching D Bldg 206
+Associated: FIN3380 L01-LEC
+Quota: 40
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 L01-LEC
+Speaker: Di Mao
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching C Bldg 208
+Associated: GEA2000 T01-TUT|GEA2000 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 L02-LEC
+Speaker: Yong Chang Pong
+Time: Tu 10:30-12:20, We 10:30-12:20
+Location: Teaching C Bldg 208
+Associated: GEA2000 T03-TUT|GEA2000 T04-TUT
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T01-TUT
+Speaker: Th 15:30-17:20
+Time: Teaching C Bldg
+Location: Di Mao
+Associated: GEA2000 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T02-TUT
+Speaker: Mo 15:30-17:20
+Time: Teaching C Bldg
+Location: Di Mao
+Associated: GEA2000 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T03-TUT
+Speaker: Tu 15:30-17:20
+Time: Teaching C Bldg
+Location: Yong Chang Peng
+Associated: GEA2000 L02-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEA2000 T04-TUT
+Speaker: We 15:30-17:20
+Time: Teaching C Bldg
+Location: Yong Chang Peng
+Associated: GEA2000 L02-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2104 L01-LEC
+Speaker: Glen HUI
+Time: Mo 15:30-17:20, Tu 13:30-15:20, We 15:30-17:2-
+Location: Teaching B Bldg 102
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2202 L01-LEC
+Speaker: Xuran Zuo
+Time: Tu 08:30-11:20, Th 08:30-11:20
+Location: Teaching A Bldg 302
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2501 L01-LEC
+Speaker: Yihan Chen
+Time: Mo 09:00-11:50, We 09:00-11:50
+Location: Teaching C Bldg 414
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 L01-LEC
+Speaker: Ruizhi LIAO
+Time: Mo 08:30-10:20, We 08:30-10:20
+Location: Teaching C Bldg 206
+Associated: GEB2503 T01-TUT|GEB2503 T02-TUT
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 T01-TUT
+Speaker: Ruizhi LIAO
+Time: Mo 13:00-14:50
+Location: Teaching D Bldg 314
+Associated: GEB2503 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB2503 T02-TUT
+Speaker: Ruizhi LIAO
+Time: We 13:00-14:50
+Location: Teaching D Bldg 314
+Associated: GEB2503 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEB3401 L01-LEC
+Speaker: Tony LO
+Time: Th 13:30-16:20, Fr 13:30-16:20
+Location: TBA
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2201 L01-LEC
+Speaker: Thomas CARROLL
+Time: Mo 08:30-10:20, We 08:30-10:20, Fr 08:30-10:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2202 L01-LEC
+Speaker: Shiwei LEI
+Time: Tu 13:00-15:50, Th 13:00-15:50
+Location: TBA
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC2301 L01-LEC
+Speaker: Stavroula Tsirogianni
+Time: Mo 10:30-12:20, Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:2-
+Location: Administration Bldg E210
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3403 L01-LEC
+Speaker: Gautam Ghosh
+Time: Mo 15:30-17:20, We 15:30-17:20, Fr 15:30-17:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3701 L01-LEC
+Speaker: Staff
+Time: Tu 10:30-12:20, Tu 15:30-17:20, We 10:30-12:20
+Location: Zhi Xin Bldg 111
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GEC3702 L01-LEC
+Speaker: Staff
+Time: Sa 08:30-11:20, Su 08:30-11:20
+Location: Zhi Xin Bldg 111
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2003 L01-LEC
+Speaker: Yuchen HAN
+Time: Tu 18:00-20:50, Th 18:00-20:50
+Location: Cheng Dao Bldg 208
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2004 L01-LEC
+Speaker: Staff
+Time: Tu 19:00-20:50, We 19:00-20:50, Th 19:00-20:50
+Location: Teaching D Bldg 103
+Associated: 
+Quota: 100
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2103 L01-LEC
+Speaker: Lucas Scripter
+Time: We 13:30-16:20, Fr 13:30-16:20
+Location: TBA
+Associated: 
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 L01-LEC
+Speaker: Foongha Yap
+Time: Mo 08:30-10:20, We 08:30-10:20
+Location: Administration Bldg E210
+Associated: GED2301 T01-TUT|GED2301 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 T01-TUT
+Speaker: Foongha Yap
+Time: Mo 15:30-16:20, We 15:30-16:20
+Location: Teaching D Bldg 109
+Associated: GED2301 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED2301 T02-TUT
+Speaker: Foongha Yap
+Time: Mo 16:30-17:20, We 16:30-17:20
+Location: Teaching D Bldg 109
+Associated: GED2301 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 L01-LEC
+Speaker: Jin LEE
+Time: Mo 10:00-11:50, We 10:00-11:50
+Location: TBA
+Associated: GED3001 T01-TUT|GED3001 T02-TUT
+Quota: 90
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 T01-TUT
+Speaker: Jin LEE
+Time: Th 10:00-11:50
+Location: TBA
+Associated: GED3001 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3001 T02-TUT
+Speaker: Jin LEE
+Time: Fr 10:00-11:50
+Location: TBA
+Associated: GED3001 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 L01-LEC
+Speaker: Cheng Chuan LIN
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teachign A Bldg 302
+Associated: GED3306 T01-TUT|GED3306 T02-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 T01-TUT
+Speaker: Cheng Chuan LIN
+Time: Tu 10:30-12:20
+Location: Teaching C Bldg 108
+Associated: GED3306 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GED3306 T02-TUT
+Speaker: Cheng Chuan LIN
+Time: Tu 13:30-15:20
+Location: Teaching C Bldg 108
+Associated: GED3306 L01-LEC
+Quota: 30
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 L01-LEC
+Speaker: Chirstopher Kluz, John Robert Williams
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 102
+Associated: GFH1000 T01-TUT|GFH1000 T02-TUT|GFH1000 T03-TUT|GFH1000 T04-TUT
+Quota: 112
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T01-TUT
+Speaker: Chirstopher Kluz
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching A Bldg 104
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T02-TUT
+Speaker: Chirstopher Kluz
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teaching A Bldg 104
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T03-TUT
+Speaker: John Robert Williams
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: Teaching D Bldg 201
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFH1000 T04-TUT
+Speaker: John Robert Williams
+Time: Mo 13:30-15:20, Th 13:30-15:20
+Location: Teaching D Bldg 201
+Associated: GFH1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 L01-LEC
+Speaker: Yifan Cai
+Time: Tu 19:00-19:50
+Location: Administration Bldg E210
+Associated: GFN1000 T01-TUT|GFN1000 T02-TUT
+Quota: 56
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 L02-LEC
+Speaker: Jing Zou
+Time: Tu 15:30-16:20, Fr 15:30-16:20
+Location: Administration Bldg E210
+Associated: GFN1000 T03-TUT|GFN1000 T04-TUT
+Quota: 56
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T01-TUT
+Speaker: Yifan Cai
+Time: Tu 10:30-12:20, Fr 10:30-12:20
+Location: Teaching A Bldg 104
+Associated: GFN1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T02-TUT
+Speaker: Yifan Cai
+Time: Tu 13:30-15:20, Fr 13:30-15:20
+Location: Teaching A Bldg 104
+Associated: GFN1000 L01-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T03-TUT
+Speaker: Jing Zou
+Time: Tu 08:30-10:20, Fr 08:30-10:20
+Location: Teaching A Bldg 107
+Associated: GFN1000 L02-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: GFN1000 T04-TUT
+Speaker: Jing Zou
+Time: Tu 10:30-12:20, Fr 10:30-12:20
+Location: Teaching A Bldg 107
+Associated: GFN1000 L02-LEC
+Quota: 28
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 L01-LEC
+Speaker: Siu Pang YUNG
+Time: We 16:00-17:50, Th 16:00-17:50, Fr 08:30-10:20
+Location: Teaching D Bldg 102
+Associated: ERG2050 T01-TUT|ERG2050 T02-TUT|ERG2050 T03-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T01-TUT
+Speaker: Staff
+Time: Th 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T02-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: ERG2050 T03-TUT
+Speaker: Staff
+Time: We 20:00-20:50, Fr 20:00-20:50
+Location: Teaching D Bldg 114
+Associated: ERG2050 L01-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT3210 L01-LEC
+Speaker: Staff
+Time: Mo 13:00-15:50, Tu 13:00-15:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT3250 L01-LEC
+Speaker: Sali Li
+Time: Mo 09:00-11:50, We 09:00-11:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT4020 L01-LEC
+Speaker: Bilian LIN
+Time: We 19:00-20:50, Th 19:00-20:50, Fr 19:00-20:50
+Location: Teaching D Bldg 307
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: 
+Speaker: MGT4110 L01-LEC
+Time: Mo 10:30-11:50, Mo 13:00-14:20, We 10:30-11:50, We 13:00-14:20
+Location: Teaching A Bldg 107
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MGT4188 L01-LEC
+Speaker: Michael FERGUSON
+Time: TBA
+Location: TBA
+Associated: 
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MKT4030 L01-LEC
+Speaker: Lili ZOU
+Time: We 15:00-17:50, Fr 15:00-17:50
+Location: Teaching A Bldg 109
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MKT4930 L01-LEC
+Speaker: Diamond TAI
+Time: Mo 10:30-11:50, Mo 13:30-14:50, We 10:30-11:50, We 13:30-14:50
+Location: Teaching C Bldg 103
+Associated: 
+Quota: 50
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 L01-LEC
+Speaker: Dongxu Ji
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:20
+Location: Zhi Xin Bldg 110
+Associated: MAT2040 T01-TUT|MAT2040 T02-TUT|MAT2040 T03-TUT|MAT2040 T04-TUT|MAT2040 T05-TUT|MAT2040 T06-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 L02-LEC
+Speaker: Dongxu Ji
+Time: Tu 15:30-17:20, We 15:30-17:20, Th 15:30-17:20
+Location: Zhi Xin Bldg 110
+Associated: MAT2040 T01-TUT|MAT2040 T02-TUT|MAT2040 T03-TUT|MAT2040 T04-TUT|MAT2040 T05-TUT|MAT2040 T06-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T02-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T03-TUT
+Speaker: Staff
+Time: We 20:00-20:50, Fr 20:00-20:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T04-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T05-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT2040 T06-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching D Bldg 108
+Associated: MAT2040 L01-LEC|MAT2040 L02-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 L01-LEC
+Speaker: Andre Manfred Milzarek
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Aministration Bldg E205
+Associated: MAT3007 T01-TUT|MAT3007 T02-TUT|MAT3007 T03-TUT|MAT3007 T04-TUT|MAT3007 T05-TUT|MAT3007 T06-TUT
+Quota: 220
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T01-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T02-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T03-TUT
+Speaker: Staff
+Time: Mo 19:00-19:50, We 19:00-19:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T04-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 37
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T05-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50, Th 20:00-20:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 36
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: MAT3007 T06-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching C Bldg 109
+Associated: MAT3007 L01-LEC
+Quota: 36
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: PED1002 L01-LEC
+Speaker: Hao JIANG
+Time: Mo 10:30-12:20, Th 10:30-12:20
+Location: TBA
+Associated: 
+Quota: 24
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: PED1002 L02-LEC
+Speaker: Hao JIANG
+Time: Mo 15:30-17:20, Th 15:30-17:20
+Location: TBA
+Associated: 
+Quota: 24
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2001 L01-LEC
+Speaker: Staff
+Time: We 13:00-14:50, Th 13:00-14:50, Fr 13:00-14:50
+Location: Teaching C Bldg 206
+Associated: STA2001 T01-TUT
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2001 T01-TUT
+Speaker: Staff
+Time: We 18:00-18:50, Fr 18:00-18:50
+Location: Teaching C Bldg 206
+Associated: STA2001 L01-LEC
+Quota: 60
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 L01-LEC
+Speaker: Xinyun CHEN
+Time: We 08:30-10:20, Mo 10:30-12:20, Fr 10:30-12:20
+Location: Teaching B Bldg 105
+Associated: STA2002 T01-TUT|STA2002 T02-TUT|STA2002 T03-TUT
+Quota: 130
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T01-TUT
+Speaker: Staff
+Time: Mo 18:00-18:50, We 18:00-18:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T02-TUT
+Speaker: Staff
+Time: Mo 20:00-20:50, We 20:00-20:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 43
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA2002 T03-TUT
+Speaker: Staff
+Time: We 19:00-19:50, Fr 19:00-19:50
+Location: Teaching A Bldg 106
+Associated: STA2002 L01-LEC
+Quota: 44
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA3011 L01-LEC
+Speaker: Chi Hoon Lee
+Time: Tu 08:30-10:20, We 08:30-10:20, Th 08:30-10:20
+Location: Teaching C Bldg 103
+Associated: STA3011 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA3011 T01-TUT
+Speaker: Staff
+Time: Tu 18:00-18:50, Th 18:00-18:50
+Location: Teaching D Bldg 206
+Associated: STA3011 L01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4020 L01-LEC
+Speaker: Nan Lin
+Time: Mo 08:30-10:20, Tu 08:30-10:20, Th 08:30-10:20
+Location: Teaching D Bldg 206
+Associated: STA4020 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4020 T01-TUT
+Speaker: Staff
+Time: Tu 19:00-19:50, Th 19:00-19:50
+Location: Teaching D Bldg 206
+Associated: STA4020 L01-LEC
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4030 L01-LEC
+Speaker: Bojun Lu
+Time: Tu 10:30-12:20, We 10:30-12:20, Th 10:30-12:2-
+Location: Teachign C Bldg 206
+Associated: STA4030 T01-TUT
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: STA4030 T01-TUT
+Speaker: Staff
+Time: Tu 20:00-20:50
+Location: Teaching C Bldg 206
+Associated: STA4030 L01-LEC
+Quota: 80
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: TRA3010 L01-LEC
+Speaker: Ying Yi Zhuang, Kexin Chen
+Time: Th 13:30-15:20, Fr 08:30-10:20
+Location: Teaching C Bldg 209
+Associated: TRA3010 T01-TUT
+Quota: 45
+Students Enrolled: 
+--------------------------------
+Term: 2019-20 Summer
+Course: TRA3010 T01-TUT
+Speaker: Ying Yi Zhuang, Kexin Chen
+Time: Fr 13:30-15:20
+Location: Teaching C Bldg 209
+Associated: TRA3010 L01-LEC
+Quota: 45
+Students Enrolled: 
+--------------------------------

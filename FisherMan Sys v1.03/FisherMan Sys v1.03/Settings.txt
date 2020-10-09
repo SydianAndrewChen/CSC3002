@@ -1,0 +1,2 @@
+_A_D_availability: 0
+current_term: 2019-20 Summer

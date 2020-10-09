@@ -1,0 +1,42 @@
+Absolute_path:/Root Created_time^2020-05-29_16:28:43 File_ID:507949581 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys Created_time^2020-03-30_00:00:00 File_ID:693642620 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App Created_time^2020-05-29_16:28:43 File_ID:544345106 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Calendar Created_time^2020-05-29_16:28:43 File_ID:711802633 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Calendar/Memo.txt Created_time^2020-05-29_16:28:43 File_ID:91606948 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Calendar/Calendar.exe Created_time^2020-05-29_16:28:43 File_ID:1455398688 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Calculator.exe Created_time^2020-05-29_16:28:43 File_ID:124725835 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/ProcessMgr.exe Created_time^2020-05-29_16:28:43 File_ID:1776732190 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/TextEditor.exe Created_time^2020-05-29_16:28:43 File_ID:16625293 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K Created_time^2020-05-29_16:28:43 File_ID:1906104944 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K/Simulated_Server_K.exe Created_time^2020-05-29_16:28:43 File_ID:1593150169 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K/Course.txt Created_time^2020-05-29_16:28:43 File_ID:806648891 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K/Student.txt Created_time^2020-05-29_16:28:43 File_ID:796229662 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K/CourseList.txt Created_time^2020-05-29_16:28:43 File_ID:1527551167 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/App/Simulated_Server_K/User.txt Created_time^2020-05-29_16:28:43 File_ID:1857977273 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/Game Created_time^2020-05-29_16:28:43 File_ID:395632757 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/Game/Snake.exe Created_time^2020-05-29_16:28:43 File_ID:1215510599 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/Sys/Game/MineSweep.exe Created_time^2020-05-29_16:28:43 File_ID:889117143 True_path: isDel:0 isRead:0 isSys:1
+
+Absolute_path:/Root/User Created_time^2020-05-29_16:29:03 File_ID:734617554 True_path: isDel:0 isRead:0 isSys:0
+
+Absolute_path:/Root/User/Hello.txt Created_time^2020-05-29_16:46:44 File_ID:1935412761 True_path:Hello1935412761.txt isDel:1 isRead:1 isSys:0
+
+Absolute_path:/Root/User/Hi.txt Created_time^2020-05-29_17:41:17 File_ID:775878633 True_path:Hi775878633.txt isDel:1 isRead:1 isSys:0
+
